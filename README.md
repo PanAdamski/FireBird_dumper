@@ -26,5 +26,5 @@ pip install pyfirebirdsql
 python3 autodump.py 192.168.100.100
 ```
 ```
-python3 firebase_bruteforce.py -i 192.168.100.100 -u usernames.txt -p passwords.txt
+python3 firebird_bruteforce.py -i 192.168.100.100 -u usernames.txt -p passwords.txt
 ```
