@@ -9,7 +9,7 @@ sudo apt update && sudo apt install -y python3-venv
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
-pip install pyfirebirdsql
+pip install firebirdsql
 ```
 
 # Install windows
@@ -18,7 +18,7 @@ git clone https://github.com/PanAdamski/FireBird_dumper; cd FireBird_dumper
 py -3 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
-pip install pyfirebirdsql
+pip install firebirdsql
 ```
 
 # Run
