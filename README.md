@@ -28,3 +28,6 @@ python3 autodump.py 192.168.100.100
 ```
 python3 firebird_bruteforce.py -i 192.168.100.100 -u usernames.txt -p passwords.txt
 ```
+
+### Disclaimer: 
+This script is provided strictly for educational purposes. The author does not condone or take responsibility for any misuse or malicious use of this script. It is intended to promote ethical learning and responsible usage only. Any actions taken beyond these lawful intentions are not encouraged and at the sole responsibility of the user.
